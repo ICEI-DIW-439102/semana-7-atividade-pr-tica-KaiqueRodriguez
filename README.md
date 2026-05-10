@@ -10,7 +10,7 @@ Nessa atividade, vamos dar os primeiros passos com JavaScript, praticando com a 
 
 ## Print do console do navegador
 
-![Print](public/print.png)
+![Print](print.png)
 
 
 
