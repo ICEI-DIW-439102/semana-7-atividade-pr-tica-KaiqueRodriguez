@@ -5,8 +5,8 @@ Nessa atividade, vamos dar os primeiros passos com JavaScript, praticando com a 
 
 ## Informações Gerais
 
-- Nome:
-- Matricula:
+- Nome: Kaique Rodrigues do Vale
+- Matricula: 913328
 
 ## Print do console do navegador
 
